@@ -1,0 +1,1 @@
+# ChartPattern_in_Stock
